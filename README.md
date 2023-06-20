@@ -1,6 +1,6 @@
 # goit-node-hw-01
 
-https://monosnap.com/file/C0rAdIm5GPMGovzAe49iULZRyKTB1b
+https://monosnap.com/file/YhY0mQCuaPak3wEkZGVK3drUhMsNwL
 
 https://monosnap.com/file/N6AvLDL7q2v37tGK86AKnOIjRJVv5I
 
